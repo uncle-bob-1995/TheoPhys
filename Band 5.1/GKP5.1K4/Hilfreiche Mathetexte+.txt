@@ -1,0 +1,8 @@
+Wunderbare Erklärung zur Wellengleichung in Forster, Otto: Analysis 2
+	Ebenso für die WRONSKI-Determinante
+Der Rieszsche Darstellungssatz ist in Prof. Dr. Winfried Kaballo - Grundkurs Funktionalanalysis beschrieben
+Die Sesquilinearform wird kompliziert und knapp in Prof. Dr. Siegfried Bosch - Lineare Algebra - 2008 beschrieben
+Die Sesquilinearform wird gut und ausführlich in Hans Wilhelm Alt - Lineare Funktionalanalysis - 2012 beschrieben
+Die Sesquilinearform wird einfach und verständlich in Dirk Werner - Funktionalanalysis - 2011 beschrieben
+	Sehr ähnlich dazu Dirk Werner - Einführung in die höhere Analysis - 2009
+Das Skalarprodukt über C ist besonders schön ausführlich und einfach in Dietlinde Lau - Algebra und Diskrete Mathematik 1 - 2011 beschrieben

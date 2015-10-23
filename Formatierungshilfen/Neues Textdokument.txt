@@ -1,0 +1,2 @@
+%iphi_M( bold r ) `=` 1 over { 4 %pi %varepsilon_0 }
+??

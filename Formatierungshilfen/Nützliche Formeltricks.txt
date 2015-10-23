@@ -1,0 +1,3 @@
+um nur einen einzigen Ausdruck anders auszurichten:
+einfach den Befehl zum Ausrichten davor schreiben und alles zusammen mit geschweiften Klammern einfassen
+{ alignc hbar over "i" }

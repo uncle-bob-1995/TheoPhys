@@ -1,0 +1,2 @@
+stack{t_max # size*3 int{} # t_min} exp(-k_1 cdot t)dt
+size*1.5 sum from size*0.6 m size*0.7 %irho _m 

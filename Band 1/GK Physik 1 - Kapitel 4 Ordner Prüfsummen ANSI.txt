@@ -1,0 +1,37 @@
+Jacksum: Meta-Info: version=1.7.0;algorithm=sha1+crc32;filesep=\;flags=rp;encoding=hex;
+Jacksum: Comment: created with Jacksum 1.7.0, http://jacksum.sourceforge.net
+Jacksum: Comment: created on Wed Jan 29 15:40:08 CET 2014
+Jacksum: Comment: os name=Windows 7;os version=6.1;os arch=x86
+Jacksum: Comment: jvm vendor=Oracle Corporation;jvm version=24.51-b03
+Jacksum: Comment: user dir=C:\Uni Arbeitsordner
+Jacksum: Comment: param dir=C:\Uni Arbeitsordner\GK Physik 1 - Kapitel 4
+55039856d983cc5c424b894e1dae2364ed4d2a275b363480 5113 BWGL homogener Zylinder auf schiefer Ebene.odf
+889a004ec792aec299934fd9f7292da4abc08bfc1aa6afb3 5090 Drehimpuls und Trägheitstensor.odf
+92b00735f67507a0a75c09e9c7d0235c58b35037dfb162df 5680 Eulersche Gleichungen.odf
+22fe6318251c4b4a964e790a83c91e5e6482a59d4b19e9eb 11739 GK Physik 1 - Kapitel 4 v1.odp
+2d650bbbf7ddc65afa1caefdb75393a4ccc3e3f30379f6da 14612 GK Physik 1 - Kapitel 4 v2.odp
+bd4d60190113931997a0a3e41f94bbc916287068ee7f9440 24597 GK Physik 1 - Kapitel 4 v3.odp
+3863c4fc295ca17f5ad785fb795a6857b68b067867ed5563 26269 GK Physik 1 - Kapitel 4 v4.odp
+e8a4691c030b5cb8c5b4e416a8c3404d88e4575d3038b8e4 36431 GK Physik 1 - Kapitel 4 v5.odp
+7867953254fe6cc96ff1e279a8c440c09b1bb715ec9ab325 39428 GK Physik 1 - Kapitel 4 v6.odp
+615a22a6ae87fd5f19554ba8c139c454f05a0568bb2b6a26 5157 Hauptträgheitsmomente.odf
+784da3cf39a979a1f1df8e1f0778244a607fdb7eca7cdc2a 5235 Komponenten der Winkelgeschwindigkeit aus den Eulerschen Gleichungen.odf
+db0aa15a1c6a51155100d993304e0f21d78cf4e22b1e55de 5241 Komponenten der Winkelgeschwindigkeit der kin Rotationsenergie.odf
+08381868650d9f9bf30ca78c57c2e6af28c02c92de271d06 5042 Massendichte 1.odf
+240502899e251027531eec04bb25ab6be25b1295543a7116 5789 Massendichte 2.odf
+73f3eede9dab3f11a7bc17e42f6201e316c41c61290f9f6f 5744 Massendichte 3.odf
+a4c42e6fe0e51fe24e515e91faf0bd0ce7f2788a6cc56da6 5413 Massendichte.odf
+bdbfd5fe0350dd8192dc30aa1522f13e68c9ea594175c0f1 5251 nk-Tupel.odf
+43e559e2f32bed77e83da17ec4c1f9f6cc4ef47d85e721a8 5284 Operatoridentität (bis v3 fälschlich Trägheitstensor).odf
+19f3563dd7cf21a634d8eabbed30673edaf291d0cf750ec9 5239 phidp.odf
+29db9dfed261c065669912b767dee614888cd53fff212166 5212 phip.odf
+872bc2ebca6c2f4c8173b34366c34294387ab28595d101cf 5096 Steinerscher Satz.odf
+30331d61b7c17469d0b9bbd9c9c3e4deac773088aec207b2 4968 Trägheitsellipsoid und Trägheitsmoment.odf
+0b488035bc3d5577015cafddefb4e6505346f392dfdac189 4983 Trägheitsellipsoid.odf
+36bf4bede168e802a0dbdcb47d4f10a5f4d686ecd313d0ba 5499 Trägheitsmoment 2.odf
+b1c097d48ac183d2dbf6bc21937b0537a6749be2c3ae4883 6025 Trägheitsmoment.odf
+e98cce5c2eb1736f9aa14fd32d4f70f2056371e5ba89cd6e 5094 Trägheitstensorkomponenten.odf
+4be1ffc9b56f4df11230cfe49af9ee777c80484b0ae05e05 4947 Ungleich.odf
+4fbe0435423a0f244d573b2537a5e899878f8c05e656a0a8 5613 Winkelgeschwindigkeiten bei Eulerschen Winkeln.odf
+b59b377d19c569db1b1321a0748b4f715b86686793b82faf 5042 xdp.odf
+5f89a9dc17879ff941dafbe88c0a1c9cf6b7d37df9bc34fd 5025 xp.odf

@@ -1,0 +1,1 @@
+reduce spacing - Category: Symbols -> primary height to 10%

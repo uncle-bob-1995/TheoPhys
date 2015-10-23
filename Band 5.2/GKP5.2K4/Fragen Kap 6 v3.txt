@@ -1,0 +1,12 @@
+Welche Größe hat die Dimension des Produktraums bei Unterscheidbaren Teilchen?
+Sie entspricht dem Produkt der Dimensionen der Ein-Teilchen-Räume H1(1) und H1(2)
+
+Gibt es nur ein Basissystem für den Produktraum H2 bei unterscheidbaren Teilchen?
+Nein, es gibt außer der Basis dessen Elemente direkte Produkte eines Zustands aus H1(1) und H1(2) sind noch andere, bspw bei Zwei-Teilchen-Systemen mit abstandsabhängiger Wechselwirkung V = V(|r1-r2|) nach einer Transformation auf Schwerpunkt- und Relativkoordinaten R und r, oder im Produktraum zweier Einzeldrehimpulse j1 und j2 die Eigenzustände |j1 j2 ;j mj> des Gesamtdrehimpulses als Basis.
+
+Was ist der Grund für die Einführung des Symmetrieoperators?
+
+Worin ist der Grund für das Symmetrieverhalten der Zustände ununterscheidbarer Teilchen?
+Slide 28 anpassen! Siehe Buch, die Erklärung ist besser als das Geschwafel von Zuständen + oder -
+
+Außerdem: Nochmals die Beziehung HN <-> HN+ und HN- (HN ist zu groß..) und die !erlaubten! Zustände für ununterscheidbare Teilchen besser erklären

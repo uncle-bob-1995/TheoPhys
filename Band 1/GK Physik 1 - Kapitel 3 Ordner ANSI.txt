@@ -1,0 +1,28 @@
+Jacksum: Meta-Info: version=1.7.0;algorithm=sha1+crc32;filesep=\;flags=rp;encoding=hex;
+Jacksum: Comment: created with Jacksum 1.7.0, http://jacksum.sourceforge.net
+Jacksum: Comment: created on Tue Jan 28 11:55:07 CET 2014
+Jacksum: Comment: os name=Windows 7;os version=6.1;os arch=x86
+Jacksum: Comment: jvm vendor=Oracle Corporation;jvm version=24.51-b03
+Jacksum: Comment: user dir=C:\Uni Arbeitsordner
+Jacksum: Comment: param dir=C:\Uni Arbeitsordner\GK Physik 1 - Kapitel 3
+7590be05fd3933d092a1503f6183595dc72fab56c56c571c 5466 BWGL gekoppelter Oszillator.odf
+a8f1ffd1aeb5c40916223b4ef6b7bc0d581a525faa34b4c9 5266 DGL Planetenbewegung.odf
+868eeadbfdea3c54f7e0a5559c953f9edfe105c14f99b330 5396 Drehimpulssatz.odf
+9dd9663eb2d6d07ebd48c1f29d01b87e2e01d9d0fa253d1a 5018 Eigenfrequenzen gekoppelter Oszillatoren.odf
+9cbe8c10cd9d83555f2d20b84b56f8f9412b9c13fffff5d2 5429 Energiesatz.odf
+47bf03920771f05ffd0aae9a2d7b3a2d2a3751c493a178e8 11442 GK Physik 1 - Kapitel 3 v1.odp
+e4908f1eea643e138f6325e8f9c7cbf95ae02aeea80d044a 14734 GK Physik 1 - Kapitel 3 v2.odp
+dd884a45bc7bd8311182f0478b83d994560da44e3c8f760c 20045 GK Physik 1 - Kapitel 3 v3.odp
+426ca2f41351d8ccbb62540df2900d3add926b68ab7ec28e 24941 GK Physik 1 - Kapitel 3 v4.odp
+ad3d781726a3ecffe917fc397dc49086390a96e7e66dbed7 35263 GK Physik 1 - Kapitel 3 v5.odp
+b295db60697649ac1a39a5d010869d47fb1afd2149073a67 5109 Massenmittelpunkt.odf
+3c8d852a07e31e40cab4e9edb723a97aeea5e58cced5e6ef 4911 Ortsvektoren aus Schwerpunkt- und Relativkoordinate.odf
+fdb8cfd82c93601d1441db3b69049114814e70fb2c81742a 4768 Reduzierte Masse.odf
+ee4331bf09df401666def52a0864d84327fb06336951b197 5423 Relativ- und Schwerpunktanteil des Gesamtdrehimpulses.odf
+0343a6e1267d4f361d0f3e5a93ecaec076b851b7cbfe086f 5401 Relativanteil Drehimpuls.odf
+6f1c5aef8debf830353ebb9e4369712940177afe6d47de3d 5019 Relativanteil kinetische Energie.odf
+d6c5086615f7ffac2b4da614bdb6a191783488e8c21c9ac4 5090 Relativkoordinate.odf
+d230be6fcdff377f49ba6c6e6764142fb0593821c0eb6bbc 5157 Schwerpunktkoordinate.odf
+f5e2416dcd6bd7508520b40492d74b2a29ed26c001d0b3d6 5216 Teilchenzerfall.odf
+88e6838386b6bdb18a596b2b0acf48e09882485bb00810c9 4886 Virialsatz.odf
+be1f09724a9d56f4266abde8a9374c18e8959c2b895eb99c 5327 Zentralstoﬂ.odf

@@ -1,0 +1,7 @@
+Für Export:
+PNG, kein interleaving, Kompression 9, 1600 x 1200 pixel
+
+Beschneiden (crop):
+512x90
+und
+512x294 offset y 90

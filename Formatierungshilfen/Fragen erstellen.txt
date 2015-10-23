@@ -1,0 +1,7 @@
+Zuallererst werden die Formatierungen angepasst.
+Das Hauptaugenmerk liegt auf guter Lesbarkeit, also wird als Schriftart für die Antworten Calibri gewählt in der Größe 24, als Schriftart für die Fragen Ebrima in der Größe 32.
+Ein Problem bei Ebrima ist die starke Neigung bei kursiver Schrift, jedoch ist dies vernachlässigbar.
+Damit die Formeln zu den Antworten passen wird dort ebenfalls die Größe angepasst, es genügt die Font Size auf 24pt zu setzen und dies als Default-Einstellung für alle neu zu erstellenden Formeln zu verwenden. Als Schriftart in den Formeln verwende ich Corbel, da es besser zu Calibri passt und auch besser lesbar ist.
+
+Da die Fragen oftmals größer sind als die Größe der voreingestellten Textbox für die Folienüberschrift kann man diese herunterskalieren bis das Feld passt.
+Hierzu markiert man den gesamten Fragentext in einer Textbox und klickt so lange auf das Icon "Schriftart verkleinern" bis die Box nicht weiter schrumpft. Dies ist die voreingestellte Größe der Textbox für die Folienüberschrift. Da man dies erst sieht wenn die Box nicht weiter schrumpft hat man also nicht die maximale Schriftgröße erhalten sondern ist einen Schritt zu weit gegangen, man muß also noch einmal auf das Icon "Schriftart vergrößern" klicken: die Box sollte jetzt die maximale Schriftartgröße haben und dennoch nicht vergrößert worden sein.
